@@ -132,6 +132,7 @@ table {
 }
 
 body {
+  background: lightsalmon;
   background-image: url("../images/restaurant.jpeg");
   background-size: cover;
   width: 100vw;
